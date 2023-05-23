@@ -306,7 +306,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  height: auto; /* Change the height to auto */
+  height: 500px;
   background-color: rgba(0, 0, 0, 0.5);
   z-index: 9999999; /* Increase the z-index value to a higher value */
 }
